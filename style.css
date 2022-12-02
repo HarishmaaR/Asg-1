@@ -9,3 +9,31 @@ a:active {color: #F433FF;text-decoration: none}
     font-family:BlackChancery;
     color:white;
 }
+
+.facilities_a{
+    font-family:Allembert™,Times,serif;
+    font-size:23px;
+    cursor: auto;
+    a:active {color: #E55B3C;text-decoration: none}
+}
+
+.facilities_a:link{
+    color:white;
+    text-decoration: none;
+}
+
+.facilities_a:visited{
+    color: white;
+}
+
+.facilities_a:hover{
+    text-decoration: none;
+     color: #E55B3C; 
+     font-weight:bold;
+     font-family:Allembert™;
+}
+
+.facilities_a:active{
+    color:#E55B3C;
+    text-decoration: none;
+}
