@@ -37,10 +37,10 @@ This project uses html and css.
 
 # Testing
 + i.Sign up form:
-+- Go to the 'CONTACT US' section 
-+- User will be led to the sign up form
-+- After all necessary fields are filled out, clicking the 'submit' button will result in a pop up telling the user that the submission was successful.
-+- User can return to the homepage by clicking on the 'ABOUT US' section
++ - Go to the 'CONTACT US' section 
++ - User will be led to the sign up form
++ - After all necessary fields are filled out, clicking the 'submit' button will result in a pop up telling the user that the submission was successful.
++ - User can return to the homepage by clicking on the 'ABOUT US' section
 # Credits
 Content
 Media 
