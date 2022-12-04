@@ -50,6 +50,6 @@ This project uses html and css.
 ## Credits
 
 ### Content
-The texts from the academic and admission session was taken from [the Berklee College of music page](https://www.berklee.edu/)
+The texts from the academic and admission session was taken from [the Berklee College of music page](https://www.berklee.edu)
 Media 
 Acknowledgements
