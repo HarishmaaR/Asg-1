@@ -50,6 +50,10 @@ This project uses html and css.
 ## Credits
 
 ### Content
-The texts from the academic and admission session was taken from [the Berklee College of music page](https://www.berklee.edu)
-Media 
-Acknowledgements
+The texts from the academic and admission session was taken from [the Berklee College of music page](https://www.berklee.edu).
+
+### Media 
+The pictures I used in the website was taken online but editted on my own using adobe photoshop. 
+
+### Acknowledgements
+The development of this site was greatly aided by [W3Schools tutorials](https://www.w3schools.com/).
